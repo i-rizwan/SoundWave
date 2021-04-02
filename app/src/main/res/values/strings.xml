@@ -1,0 +1,10 @@
+<resources>
+    <!-- Mutual -->
+    <string name="app_name">Data Over Sound</string>
+    <string name="chat">Chat</string>
+    <string name="send">Send</string>
+    <string name="listen">Listen</string>
+    <string name="stop">Stop</string>
+    <string name="clear_chat">Clear chat</string>
+
+</resources>
